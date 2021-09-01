@@ -7,5 +7,5 @@ Moreover,simply modify the ble-related app code on the Internet to meet the requ
 ### Techniques in use 
 * BLE
 * GPIO
-* UART
+* Nordic UART Service
 
