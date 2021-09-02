@@ -9,3 +9,5 @@ Moreover,simply modify the ble-related app code on the Internet to meet the requ
 * GPIO
 * Nordic UART Service
 
+## Demo Video
+https://streamable.com/bnmc8p
